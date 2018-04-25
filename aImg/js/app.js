@@ -43,7 +43,10 @@ particlesJS('particles-js',
             "imgArr": [
                 "img/a0.png",
                 "img/a5.png",
-                "img/a3.png"
+                "img/a3.png",
+                "img/a2.png",
+                "img/a4.png",
+                "img/a1.png"
             ],
             "width": 100,
             "height": 100
