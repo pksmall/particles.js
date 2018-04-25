@@ -414,6 +414,7 @@ var pJS = function (tag_id, params) {
                 src: sh.images.imgArr[iKey],
                 ratio: sh.images.width / sh.images.height
             }
+            if (!this.img.ratio) this.img.ratio = 1;
         }
     };
 
